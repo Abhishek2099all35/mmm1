@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>webpage</title>
+<body bgcolor="pink" text="red">
+<h1>msdhoni</h1>
+</center>
+<p>Mahendra singh dhoni,born 7 July 1981 is an Indian professional cricketer
+who plays as a right- handed bats man
+</p>
+<img src=width="50%" height="50%>
+</body>
+</html>
